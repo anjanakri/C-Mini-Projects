@@ -1,4 +1,4 @@
-//Phone Book Mini Project.
+//Phone Book Mini Project. Crated by @anjanakri
 #include<stdio.h>
 
 //decalring a structure
